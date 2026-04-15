@@ -1,3 +1,22 @@
-Descrição do sistema de monitoramento de saúde mental.
+Sistema de Monitoramento de Saúde Mental para Estudantes
 
-O sistema coleta dados de humor, analisa padrões com IA e gera alertas preventivos.
+Descrição Técnica:
+
+O sistema é composto por três camadas principais:
+
+1. Frontend:
+Aplicação responsável pela interação com o usuário, permitindo o registro de dados emocionais.
+
+2. Backend:
+Responsável pelo processamento dos dados, incluindo análise de padrões e classificação de risco.
+
+3. Camada de Inteligência:
+Simulação de algoritmo que analisa a média de humor e classifica o nível de risco emocional.
+
+Fluxo:
+
+Usuário → Registro de humor → Envio para backend → Processamento → Classificação de risco → Geração de alerta
+
+Objetivo:
+
+Detectar padrões de risco emocional de forma preventiva e sugerir ações adequadas.
