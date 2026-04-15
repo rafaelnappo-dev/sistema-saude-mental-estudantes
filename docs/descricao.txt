@@ -1,0 +1,3 @@
+Descrição do sistema de monitoramento de saúde mental.
+
+O sistema coleta dados de humor, analisa padrões com IA e gera alertas preventivos.
